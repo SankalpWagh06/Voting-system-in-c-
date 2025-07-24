@@ -1,1 +1,1 @@
-# Voting-system-in-c-
+# Voting system in c++
